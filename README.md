@@ -1,1 +1,1 @@
-# RustCLI
+# Rust CLI
